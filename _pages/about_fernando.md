@@ -1,0 +1,3 @@
+I’m an Artificial Intelligence Engineer with over 5 years of experience across academia, industry, and entrepreneurial projects. My expertise lies in deep learning, computer vision, NLP, reinforcement learning, and large language models, combining solid theoretical foundations with practical implementation. 
+
+I’ve taught AI courses at the university level and contributed to projects with companies like SONY and startups focused on smart cities and medical imaging. I’m passionate about building scalable AI systems, mentoring technical teams, and communicating complex ideas in an accessible way to create real-world impact.

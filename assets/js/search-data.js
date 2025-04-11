@@ -504,11 +504,11 @@ ninja.data = [{
           window.open("mailto:%66%65%72%6E%61%6E%64%6F%32%33%32%39%36@%73%69%6C%76%61.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/fernando-silva-48587613b", "_blank");
         },
       },{
       id: 'light-theme',

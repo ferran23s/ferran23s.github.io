@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ferran23s.github.io/sitemap.xml

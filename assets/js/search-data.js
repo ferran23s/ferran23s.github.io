@@ -358,11 +358,11 @@ ninja.data = [{
             window.location.href = "/blog/2021/diagrams/";
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-learning-vector-quantization-aprendizaje-de-cuantificación-vectorial",
         
-          title: "a distill-style blog post",
+          title: "Learning Vector Quantization (Aprendizaje de cuantificación vectorial)",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "Blog en español",
         section: "Posts",
         handler: () => {
           

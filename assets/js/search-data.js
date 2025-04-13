@@ -72,11 +72,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-learning-vector-quantization-aprendizaje-de-cuantificación-vectorial",
+            },{id: "post-learning-vector-quantization",
         
-          title: "Learning Vector Quantization (Aprendizaje de cuantificación vectorial)",
+          title: "Learning Vector Quantization",
         
-        description: "Blog en español",
+        description: "Post en español",
         section: "Posts",
         handler: () => {
           

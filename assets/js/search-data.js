@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-learning-vector-quantization-aprendizaje-de-cuantificación-vectorial",
+        
+          title: "Learning Vector Quantization (Aprendizaje de cuantificación vectorial)",
+        
+        description: "Blog en español",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/distill/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -356,17 +367,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2021/diagrams/";
-          
-        },
-      },{id: "post-learning-vector-quantization-aprendizaje-de-cuantificación-vectorial",
-        
-          title: "Learning Vector Quantization (Aprendizaje de cuantificación vectorial)",
-        
-        description: "Blog en español",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2021/distill/";
           
         },
       },{id: "post-a-post-with-twitter",

@@ -80,6 +80,17 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/blog/2025/lvq/";
+          
+        },
+      },{id: "post-learning-vector-quantization",
+        
+          title: "Learning Vector Quantization",
+        
+        description: "Post en español",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/blog/2025/distill/";
           
         },

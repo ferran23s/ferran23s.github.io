@@ -7,11 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-## EPITECH (Barcelona, Spain) — Guest Lecturer in Artificial Intelligence  
+## EPITECH (Barcelona, Spain) — Guest Lecturer
 Delivered a guest lecture on an advanced AI topic:  
 * **Lecture topic**: *Digital Twins with Artificial Intelligence (April, 2025)* 
 
-## Bolivian Private University (Remote) — Lecturer in Artificial Intelligence  
+## Bolivian Private University (Remote) — Lecturer 
 Taught AI courses at both undergraduate and postgraduate levels while based in Europe. Covered core topics such as Machine Learning, Deep Learning (CNNs, RNNs, Transformers), Natural Language Processing, and Reinforcement Learning. Conducted practical, hands-on sessions using real-world datasets with tools like Jupyter Notebooks, Google Colab, and Python libraries (TensorFlow, Keras, PyTorch).
 
 **Courses taught**:  
